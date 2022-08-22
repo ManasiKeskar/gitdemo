@@ -1,0 +1,44 @@
+Todo
+
+0.1 Add Customer Info 
+0.2 Add Customer Contact
+0.3 Add Customer Interest
+
+
+1. Customer Info View and update
+2. Customer contact View and update
+3. Customer Interest View and update (set interest to local storage)
+4. Customer Activities
+
+5.1 Training
+   -  Uplaod training data
+   -  Data set Preview
+   -  File Check dailog
+   -  Confirm dailog
+   -  Training Button
+
+5. Models Info Page
+   
+ - Active Model Card
+  -Inactive Model Card 
+  -Previeous version dailog
+  - Upload Prediction data
+  - Predict
+
+6. Tickets Page
+
+  - Ticket list
+  - Tags - remove editing
+  - Info - Display Details
+  - Predict - Display Recommendation, map, etc.
+  - Remove Add Tickets
+
+7. Landing Page Refinement - refer to chat.
+
+  - Register page in center
+
+8. Auth0 Integration
+
+7. Tooaster Module 
+
+   - Global Validation
